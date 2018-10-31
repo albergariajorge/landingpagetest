@@ -1,3 +1,3 @@
-# Jorge Landing Page
+# Jorgeee Landing Page
 
 This is my landing page.
